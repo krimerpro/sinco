@@ -57,7 +57,7 @@
         </div>
         <div class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="200">
           <div class="counter-block-one text-center mb-20">
-            <div class="main-count">$<span class="counter">10</span>million</div>
+            <div class="main-count"><span class="counter">100</span>million</div>
             <p>TOTAL SUPPLY</p>
           </div> <!-- /.counter-block-one -->
         </div>
