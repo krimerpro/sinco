@@ -10,7 +10,7 @@
           <p class="text-lg pt-25 pb-40 lg-pb-20 sm-pt-10">Sinco delivered blazing fast, striking ai solution</p>
           <ul class="style-none button-group d-sm-flex align-items-center">
             <li class="me-4 mt-10"><a href="https://t.me/SincoAIBsc" class="btn-one ripple-btn">JOIN US</a></li>
-            <li><a class="demo-btn tran3s mt-10" href="https://poocoin.app/tokens/0xd030DdDfBC4Cb033c6145534ec23395A1c1f19AF">POOCOIN CHART</a></li>
+            <li><a class="demo-btn tran3s mt-10" href="https://poocoin.app/tokens/0x33F60e2CFe04d84a08FCbcFC085dE21b06973737">POOCOIN CHART</a></li>
           </ul>
         </div>
       </div>
